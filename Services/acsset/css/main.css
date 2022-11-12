@@ -2,7 +2,7 @@
 .header {
     width: auto;
     height: 350px;
-    background: url(/acsset/img/banner2.jpg);
+    background: url(./acsset/img/banner2.jpg);
     background-size: cover;
     object-fit: cover;
 }

@@ -49,13 +49,19 @@ margin-top: 20px;
 .header .linear {
   background-image: linear-gradient(to right, rgb(236 98 6 / 98%), rgb(5 3 0 / 83%))
 }
-s
-/* .header .header-content {
+.header .row-content {
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 80px;
+  background-position: center;
+  height: 400px;
+}
+.header .header-content {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 40px 0;
-} */
+}
 
 .header .header-content a {
   text-decoration: none;
@@ -66,7 +72,7 @@ s
 
 .header .header-content .navbar a {
   font-size: 18px;
-  padding: 0 10px;
+  padding: 0 5px;
   font-weight: 400;
   transition: all 0.5s;
 }
@@ -109,26 +115,26 @@ s
   color: #5b5f6c;
   font-size: 16px;
 }
-/* .header .row-content .nav{
+.header .row-content .nav{
   display: flex;
   justify-content: center;
   margin-top: 80px;
   align-items: center;
-} */
-/* .header .row-content .nav a{
+}
+.header .row-content .nav a{
   text-decoration: none;
   font-size: 20px;
   font-weight: 700;
   color: #ff6600;
 padding: 0 15px;
-} */
+}
 .header .row-content .nav .active i{
   color: #ffffff;
   font-weight: 700;
 }
 .header .row-content .nav .active a{
   color: #ffffff;
-} 
+}
 .agent{
   margin-top: 80px;
 }

@@ -1,0 +1,3 @@
+Thông tin nhóm:
+1/ Bùi Hữu Tâm: làm trang services, blog và contact, tạo link git và tải source code lên github
+2/ Bùi Lập Duy: làm trang home, about và email, làm youtube
